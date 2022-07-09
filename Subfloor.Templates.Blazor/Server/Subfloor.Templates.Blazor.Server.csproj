@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -18,7 +18,7 @@
 
 	  <PackageReference Include="Duende.BFF" Version="1.2.3" />
 	  <PackageReference Include="Duende.BFF.Yarp" Version="1.2.3" />
-	  <PackageReference Include="Subfloor.Dotnet" Version="0.5.4-prerelease-0027" />
+	  <!--<PackageReference Include="Subfloor.Dotnet" Version="0.5.4-prerelease-0027" />-->
   </ItemGroup>
 
   <ItemGroup>
