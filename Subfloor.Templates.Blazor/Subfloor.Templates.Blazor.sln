@@ -9,11 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subfloor.Templates.Blazor.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subfloor.Templates.Blazor.Shared", "Shared\Subfloor.Templates.Blazor.Shared.csproj", "{E83D6C6C-BBD1-4FB9-BE55-927391D4F6C9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{FF73CD65-9AB8-417D-BF53-79369C94DD98}"
-	ProjectSection(SolutionItems) = preProject
-		..\nuget.config = ..\nuget.config
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
