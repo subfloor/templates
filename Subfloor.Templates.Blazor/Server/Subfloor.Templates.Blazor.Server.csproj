@@ -18,6 +18,7 @@
 
 	  <PackageReference Include="Duende.BFF" Version="1.2.3" />
 	  <PackageReference Include="Duende.BFF.Yarp" Version="1.2.3" />
+	  <PackageReference Include="Subfloor.AspNetCore" Version="0.0.1-prerelease-0010" />
 	  <!--<PackageReference Include="Subfloor.Dotnet" Version="0.5.4-prerelease-0027" />-->
   </ItemGroup>
 
