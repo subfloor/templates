@@ -66,6 +66,9 @@ try
 
     app.MapFallbackToFile("index.html");
 
+    //  use local minimal apis
+    app.UseSubfloorEchoApi();
+
     app.Run();
 }
 catch (Exception ex)
